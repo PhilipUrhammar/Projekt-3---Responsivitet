@@ -185,6 +185,8 @@ html {
     column-gap: 2rem;
 }
 
+/*-------------------------------------------------------*/
+
 @media (min-width: 768px) {
     .text-columns {
         column-count: 2;
